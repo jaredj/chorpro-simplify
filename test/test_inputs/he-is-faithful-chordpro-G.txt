@@ -1,0 +1,53 @@
+{title: He Is Faithful}
+{artist: Bryan Torwalt, Katie Torwalt}
+{key: G}
+{time: 4/4}
+{tempo: 125}
+{ccli_license: 2927147}
+{ccli: 6087902}
+{copyright: 2011 Capitol CMG Genesis | Jesus Culture Music}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[||:][G]       [|][G]       [|][C2(no3)]       [|][C2(no3)]       [:||]
+
+{comment: Verse 1}
+[G]  I have heard a sound  [C2(no3)]  coming on the wind 
+[G]  Changing hearts and minds  [C2(no3)]  healing brokenness 
+[Em7]  I feel a generation  [C2]  breaking through despair 
+[Em7]  I hear a generation  [C2]  full of faith declare 
+
+{comment: Pre-Chorus}
+[D]  And our [Em7]song it will [C2]be 
+[D]  Out of the [Em7]darkness we will [C2]rise  [Cmaj7]and sing 
+
+{comment: Chorus}
+[G]He is faithful [C]He is glorious 
+And [Em]He is Jesus and [C]all my hope is in Him 
+[G]He is freedom [C]He is healing right now 
+[Em]He is hope and joy [C]love and peace and life yeah   [(G)] (To V2)
+
+{comment: Verse 2}
+[G]  I have seen a light  [C2(no3)]  like the break of dawn 
+[G]  Giving blind men sight  [C2(no3)]  and letting lame men walk 
+[Em7]  I see a generation  [C2]  with resurrection life 
+[Em7]  We are a generation  [C2]  filled with the power of Christ 
+
+{comment: Instrumental}
+[||:][G]       [|][G]       [|][C2(no3)]       [|][C2(no3)]       [:||]
+
+{comment: Bridge}
+[Em]  He has [C]paid the highest price  [G]    [D]
+[Em]  He has [C]proven His great [G]love for [D/F#]us 
+[Em]  We will [C]praise Him with our [G]lives    [D]
+[Em]  And pro - [C]claim our love for [G]Him    [D/F#]
+[Em]  He has [C]paid the highest price  [G]    [D]
+[Em]  He has [C]proven His great [G/B]love for [D/F#]us 
+[Em]  We will [C]praise Him with our [G]lives    [D]
+[Em]  And pro - [C]claim our love for [G]Him    [D/F#]
+[Em]  And pro - [C]claim our love for [G]Him 
+
+CCLI Song # 6087902
+© 2011 Capitol CMG Genesis | Jesus Culture Music
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

@@ -1,0 +1,54 @@
+{title: The Blessing}
+{artist: Chris Brown, Cody Carnes, Kari Jobe, Steven Furtick}
+{subtitle: (based on the recording by Kari Jobe, Cody Carnes & Elevation Worship \ original key: B)}
+{key: G}
+{time: 4/4}
+{tempo: 70}
+{ccli_license: 2927147}
+{ccli: 7147007}
+{copyright: 2020 Capitol CMG Paragon | Kari Jobe Carnes Music | Worship Together Music | Writer's Roof Publishing | Music by Elevation Worship Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Verse 1}
+[G]  The Lord bless you  [C2(no3)]  and keep you
+[G]  Make his face shine up - [D(4)]on you and be gracious to you
+[Em7]  The Lord turn his  [C2(no3)]  face toward you
+[G]  And [D(4)]give you [G]peace        [Gsus]
+
+{comment: Chorus}
+[Em7]A   -   [C2(no3)]men
+A - [G]men    a - [D(4)]men
+(REPEAT)
+
+{comment: Instrumental}
+[|] [Em7]         [|] [C2(no3)]     [|] [G]           [|] [D(4)]        [|] 
+
+{comment: Bridge 1}
+May his [Em7]favor be upon you
+And a [C2(no3)]thousand generations
+And your [G]family and your children
+And their [D(4)]children and their children
+
+{comment: Bridge 2}
+May his [Em7]presence go before you
+And be - [C2(no3)]hind you and beside you
+All a - [G]round you and within you
+He is [D(4)]with you he is with you
+
+{comment: Bridge 3}
+In the [Em7]morning in the evening
+In your [C2(no3)]coming and your going
+In your [G]weeping and rejoicing
+He is [D(4)]for you he is for you
+
+{comment: Tag}
+He is [Em7]for you he is for you
+He is [C2(no3)]for you he is for you
+He is [G]for you he is for you
+He is [D(4)]for you       [(C2(no3))] (Last x)
+
+
+CCLI Song # 7147007
+© 2020 Capitol CMG Paragon | Kari Jobe Carnes Music | Worship Together Music | Writer's Roof Publishing | Music by Elevation Worship Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

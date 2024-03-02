@@ -1,0 +1,53 @@
+{title: You Won’t Relent}
+{artist: Cassandra Campbell, David Brymer, Misty Edwards}
+{key: C#m}
+{time: 4/4}
+{tempo: 80}
+{ccli_license: 2927147}
+{ccli: 5370823}
+{copyright: 2007 Common Hymnal Publishing | Innerland | Forerunner Worship | Misty Edwards Music | Cassie Campbell Music | Watershed Worship Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Chorus 1}
+[C#m] You won’t relent until You [A] have it all  [E]
+My heart is [F#m]Yours
+[C#m] You won’t relent until You [A] have it all  [E]
+My heart is [F#m]Yours
+
+{comment: Verse}
+I’ll [C#m]set You as a [A]seal upon my [E]heart
+As a [F#m]seal upon my arm
+[C#m] For there is [A]love that is as [E]strong as death
+[F#m]Jealousy demanding as the grav
+[C#m] Many [A]waters [E]cannot quench this [F#m]love
+
+{comment: Bridge 1}
+[|] [C#m]         [|] [A]           [|] [E]           [|] 
+
+Waters [F#m]cannot quench this [C#m]love        [A]        [E]
+Waters [F#m]cannot quench this [C#m]love        [A]        [E]
+My heart is [F#m]Yours
+
+{comment: Chorus 2}
+[C#m] Come be the [A]fire inside of me  [E]
+Come be the [F#m]flame upon my heart
+[C#m] Come be the [A]fire inside of me  [E]
+Until [F#m]You and I are [C#m]one
+
+{comment: Bridge 2}
+[|] [C#m]         [|] [A]           [|] [E]           [|] 
+
+Until [F#m]You and I are [C#m]one        [A]        [E]
+My heart is [F#m]Yours
+
+{comment: Ending}
+[|] [C#m]        [|] [A]            [|] [E]            [|] [F#m]         [|]
+[|] [C#m]        [|] [A]            [|] [E/B]       [|] [G#/B#]      [|]
+
+[||:] [C#m]        [|] [A]        [|] [E]          [|] [F#m]         [:||]
+
+
+CCLI Song # 5370823
+© 2007 Common Hymnal Publishing | Innerland | Forerunner Worship | Misty Edwards Music | Cassie Campbell Music | Watershed Worship Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

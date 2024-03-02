@@ -1,0 +1,46 @@
+{title: Cornerstone}
+{artist: Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan, William Batchelder Bradbury}
+{key: C}
+{time: 4/4}
+{tempo: 71}
+{ccli_license: 2927147}
+{ccli: 6158927}
+{copyright: 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: INTRO}
+[|][C]          [|]           [|][Am]      [|]           [|][F]         [|][G]         [|]
+
+{comment: VERSE 1}
+[C]  My hope is built on nothing less 
+[F]  Than Jesus’ blood and [G]righteousness 
+[Am] I dare not trust the [Am/G]sweetest frame 
+[F]  But wholly [G]trust in 
+(1.) Je - [C] sus’ Name   (To Verse 1) 
+(2.) Je - [C] sus’ Name       [Csus]  [C]   (To Chorus) 
+
+{comment: CHORUS}
+[(C/E)]Christ a - [F]lone, [Am]Corner - [G]stone 
+[C/E]Weak made [F]strong in the [Am]Saviour’s [G]love 
+[C]Through the [F]storm, [Am]He is [G]Lord, Lord of [C]all 
+
+{comment: VERSE 2}
+[C] When darkness seems to hide His face 
+[F] I rest on His un - [G]changing grace 
+[Am] In ev’ry high and [Am/G]stormy gale 
+[F] My anchor [G]holds within [C] the veil 
+[F] My anchor [G]holds within [C] the veil 
+
+{comment: INTERLUDE}
+[C]                He is   [Am]Lord,             Lord of   [F]all            [G]
+
+{comment: VERSE 3}
+[C]  When He shall come with trumpet sound 
+[F]  Oh may I then in [G]Him be found 
+[Am] Dressed in His righteous - [Am/G]ness alone 
+[F]  Faultless [G]stand before [C] the throne 
+
+CCLI Song # 6158927
+© 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

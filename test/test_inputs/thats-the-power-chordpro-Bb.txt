@@ -1,0 +1,66 @@
+{title: That's The Power}
+{artist: Alexander Pappas, Benjamin Hastings, Michael Fatkin}
+{subtitle: (based on the recording by Hillsong Worship)}
+{key: Bb}
+{ccli_license: 2927147}
+{ccli: 7177422}
+{copyright: 2021 Hillsong Music Publishing Australia}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+{tempo: 73} 
+{time: 4/4}
+
+{comment: Intro / Turnaround}
+[||:] [Gm]   [Gm/F]   [|] [Ebmaj7]         [:||]
+
+{comment: Verse 1}
+[Gm]   There's a [Gm/F]Name that levels [Ebmaj7]mountains 
+[Gm]   Carves out [Gm/F]highways through the [Ebmaj7]sea 
+[Gm] I've seen its [Gm/F]pow'r unravel [Ebmaj7]battles 
+Right in front of me [Gm]   [Gm/F]   [Ebmaj7]
+[Gm]   There's a [Gm/F]faith that stands de - [Ebmaj7]fiant 
+[Gm]   Sends Go - [Gm/F]liath to his [Ebmaj7]knees 
+[Gm] I've seen as [Gm/F]praise unravelled [Ebmaj7]shackles 
+Right off my feet [Gm]   [Gm/F]   [Ebmaj7] 
+
+{comment: Chorus 1a}
+'Cause that’s the [Gm]power of Your [F]Name, just a [Eb]mention makes a [Bb]way 
+Giants [Gm]fall and strongholds [F]break and there is [Eb]healing  [Bb] 
+That’s the [Gm]power that I [F]claim, it’s the [Eb]same that rolled the [Bb]grave 
+There’s no [Gm]power like the [F]mighty Name of [Eb]Je -  [Bb]sus  (To Tag 1)
+
+{comment: Verse 2}
+[Gm]   There's a [Gm/F]hope that calls out [Ebmaj7]courage 
+[Gm]   In the furnace una - [Ebmaj7]fraid 
+[Gm] The kind of [Gm/F]daring expec - [Ebmaj7]tation 
+That ev'ry prayer I [Gm]make is on an [Gm/F]empty  [Ebmaj7]grave
+
+{comment: Tag 1}
+There’s no [Gm]power like the [F]mighty Name of [Eb]Je -  [Bb]sus
+
+{comment: Instrumental}
+[|] [Bb]            [|] [Bb]            [|] [Bb]            [|] [Bb]            [|] 
+
+{comment: Bridge}
+[Bb] I see You taking ground, [Bbsus] I see You press [Bb]ahead 
+[Bb] Your pow'r is dangerous to the enemy’s camp 
+[Bb] You still do miracles,  [Bbsus] You will do what [Bb]You said 
+[Bb] For You're the same God now as [Bb]You've always been 
+[Gm7] Your Spirit [F]breaking out, [Eb] Your kingdom [Bb]moving in 
+[Gm7] Your vict'ry [F]claims the ground that the [Eb]enemy had [Bb]  
+[Gm7] You still do [F]miracles,  [Eb] You will do [Bb]what You said 
+[Gm7] For You're the [F]same God now as [Eb]You've always been 
+
+{comment: Chorus 1b}
+'Cause that’s the [Gm7]power of Your [F]Name, just a [Eb]mention makes a [Bb]way 
+Giants [Gm7]fall and strongholds [F]break and there is [Eb]healing  [Bb] 
+That’s the [Gm7]power that I [F]claim, it’s the [Eb]same that rolled the [Bb]grave 
+There’s no [Gm7]power like the [F]mighty Name of [Eb]Je -  [Bb]sus
+
+{comment: Tag 2}
+There’s no [Gm]power like the [F]mighty Name of [Eb]Je -  [Bb]sus
+There’s no [Gm]power like the [F]mighty Name of [Eb]Je -  [Bb]sus
+
+CCLI Song # 7177422
+© 2021 Hillsong Music Publishing Australia
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

@@ -1,0 +1,48 @@
+{title: Know You Will}
+{artist: Benjamin Hastings, Joel Houston, Dylan Thomas}
+{subtitle: (as published by Hillsong UNITED)}
+{key: E}
+{ccli_license: 2927147}
+{ccli: 7176473}
+{copyright: 2021 Hillsong MP Songs | Hillsong Music Publishing Australia}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+{tempo: 64} 
+{time: 4/4}
+
+{comment: Intro}
+[|] [N.C.]       [||] [C#m]            [|] [E]                 [|] [C#m]            [|] [E]               
+
+{comment: Verse 1}
+When the [C#m]road runs dead, You can see a way I [E] don’t 
+And it [C#m]makes no sense, but You say that’s what faith is [E] for 
+[C#m] When I see a flood, You see a promise 
+[E] When I see a grave, You see a door 
+When I’m [C#m]at my end, You see where the future [E] starts 
+
+{comment: Chorus}
+I [(N.C.)]don’t know how You [C#m7]make a way, but I [A]know You [E]will 
+I don’t know how You [C#m7]make a way, but I [A]know You [E]will 
+You’ve been good on every [C#m7]promise from Eden to Zion 
+Through [B]every dead [A]end and out of that [E]grave 
+I don’t know how You [C#m7]make a way, but I [A]know You [E]will (I know You will) 
+
+{comment: Verse 2}
+When the [C#m]world’s on fire, it’s not like You [A]don’t have [E] a plan 
+And when the [C#m]earth gives way, on this Rock Your [A]Church [E]will stand 
+[C#m] Nothing has ever once sur - [A]prised You 
+[E] Nothing has ever made You flinch, and when it [C#m]all shakes out 
+The gates of hell [A]don’t stand [E] a chance 
+
+{comment: Bridge 1}
+[A] You pulled my heart from [B]Egypt, [C#m] You carved a road through [B]sea 
+From [E]all our chains to endless praise, [G#m]the story ends in You 
+
+{comment: Bridge 2}
+[A] And when we cross that [B]Jordan, [C#m] Look back at where we’ve [B]been 
+From [E]all our chains to endless praise, [G#m]the story ends in You 
+
+
+CCLI Song # 7176473
+© 2021 Hillsong MP Songs | Hillsong Music Publishing Australia
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147

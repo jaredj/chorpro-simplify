@@ -1,0 +1,17 @@
+{title: Made A Way}
+{ccli_license: 2927147}
+{ccli: 7071768}
+{copyright: Greenelight Music}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+{artist: Travis Greene} 
+{subtitle: (based on the recording by Travis Greene)}
+{key: B}
+{tempo: 77}
+{time: 4/4}
+
+{comment: 8
+
+CCLI Song # 7071768
+© Greenelight Music
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 2927147
